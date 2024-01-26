@@ -72,3 +72,4 @@ Test cases cover various scenarios including:
 - One list longer than the other
 - One or both lists empty
 - Lists with interleaving or identical values
+- Lists with one element each
