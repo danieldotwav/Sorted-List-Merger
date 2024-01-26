@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorted List Merger", "Sorted List Merger.vcxproj", "{582F4DFF-9EEE-4078-A69B-1037F657AC61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{582F4DFF-9EEE-4078-A69B-1037F657AC61}.Debug|x64.ActiveCfg = Debug|x64
+		{582F4DFF-9EEE-4078-A69B-1037F657AC61}.Debug|x64.Build.0 = Debug|x64
+		{582F4DFF-9EEE-4078-A69B-1037F657AC61}.Debug|x86.ActiveCfg = Debug|Win32
+		{582F4DFF-9EEE-4078-A69B-1037F657AC61}.Debug|x86.Build.0 = Debug|Win32
+		{582F4DFF-9EEE-4078-A69B-1037F657AC61}.Release|x64.ActiveCfg = Release|x64
+		{582F4DFF-9EEE-4078-A69B-1037F657AC61}.Release|x64.Build.0 = Release|x64
+		{582F4DFF-9EEE-4078-A69B-1037F657AC61}.Release|x86.ActiveCfg = Release|Win32
+		{582F4DFF-9EEE-4078-A69B-1037F657AC61}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5C24C37-C4A7-4B4F-A3B4-8839AB394B15}
+	EndGlobalSection
+EndGlobal
